@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢¬‰ãúÿÿÿÿ
+J
+java:S1610"4Convert the abstract class "File" into an interface.(õÃëŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÁ¤¾ùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(–Õ¡¶þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µé¿á
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ý§Ý†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÛé¨üÿÿÿÿ
