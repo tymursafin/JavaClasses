@@ -1,17 +1,15 @@
 package Class24;
 
-import com.google.common.flogger.FluentLogger;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
 public class Main {
-    private static final FluentLogger logger = FluentLogger.forEnclosingClass();
     public static void main(String[] args) {
-        Person tymur = new Person("Tymur",  "Safin");
-        logger.atInfo().log("person =" + tymur);
-        tymur.setFirstName("");
-
+        Person tymur = new Person("Tymur", "Safin");
+        System.out.println("tymur = " + tymur);
+        tymur.setFirstName(null);
+        System.out.println("tymur = " + tymur);
     }
 }
 
@@ -66,8 +64,6 @@ class Car {
 }
 
 class Person {
-    private static final FluentLogger logger = FluentLogger.forEnclosingClass();
-
     private String firstName;
     private String middleName;
     private String lastName;
@@ -96,15 +92,19 @@ class Person {
     }
 
     public void setFirstName(String firstName) {
-        if (firstName.length() > 30) {
-            logger.atWarning().log("Name too long");
-            return;
+        if (firstName != null) {
+            if (firstName.length() > 30) {
+                System.err.println("Name too long");
+//            logger.atWarning().log("Name too long");
+                return;
+            }
+            if (firstName.isBlank()) {
+                System.err.println("Name field can't be blank");
+//            logger.atWarning().log("Name field can't be blank");
+                return;
+            }
+            this.firstName = firstName;
         }
-        if (firstName.isBlank()) {
-            logger.atWarning().log("Name field can't be blank");
-            return;
-        }
-        this.firstName = firstName;
     }
 
     public String getMiddleName() {
