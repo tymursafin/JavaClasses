@@ -1,0 +1,16 @@
+
+d
+java:S1192a"NDefine a constant instead of duplicating this literal "Name too long" 3 times.(˜…‘¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó•ˆøÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸ã—è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ã—è
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(˜…‘¦
+Q	java:S125b"<This block of commented-out lines of code should be removed.(ƒõ÷ô
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Íÿ»ò
+P	java:S125g"<This block of commented-out lines of code should be removed.(İ÷‡4
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ş ¹ùøÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(ƒµë
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ş ¹ùøÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(î±Ç…ùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ì«‚±ıÿÿÿÿ
