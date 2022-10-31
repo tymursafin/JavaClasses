@@ -15,3 +15,7 @@ D
 src/Class24/Dog.java,9\1\91582359b04369a7a31c17eaae01fe457ebf78a2
 E
 src/Class24/Main.java,a\9\a91de486a1d86f4d7f6ac899f8d8e46004c3d1f8
+N
+src/Class24/ArrayListDemo.java,f\2\f242978cd9f9c3a38a84d8061d7587b84b0e414e
+D
+src/ClassTester.java,2\8\28e6e0500bd9a01531de1003dc7ac875e2a09651
