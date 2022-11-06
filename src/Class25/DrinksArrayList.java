@@ -17,9 +17,9 @@ public class DrinksArrayList {
         drinks.add("Gin & Tonic");
         drinks.add("Long Island Iced Tea");
 
-        for (String drink : drinks) {
-            if (drink.contains("a") || drink.contains("e")) {
-                drinks.set(drinks.indexOf(drink), "water");
+        for (int i = 0; i < drinks.size(); i++) {
+            if (drinks.get(i).contains("a") || drinks.get(i).contains("e")) {
+                drinks.set(i, "water");
             }
         }
         System.out.println(drinks);

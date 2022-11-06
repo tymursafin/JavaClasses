@@ -30,14 +30,14 @@ public class RemoveAllDemo {
         makeUpItem.removeIf(item -> item.startsWith("B"));
         System.out.println(makeUpItem);
 
-        /*var iterator = makeUpItem.iterator();
+        var iterator = makeUpItem.iterator();
         while (iterator.hasNext()){
             var item = iterator.next();
             if(item.startsWith("B")){
                 iterator.remove();
             }
         }
-        System.out.println(makeUpItem);*/
+        System.out.println(makeUpItem);
 
     }
 }
