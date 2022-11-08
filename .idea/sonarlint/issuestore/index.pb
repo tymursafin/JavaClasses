@@ -11,9 +11,35 @@ J
 JavaClasses.iml,1\7\17244ab7f61a60f135017b7b9b3ca55a314f4e8f
 H
 src/Class14/Student.java,c\1\c15c597e8694b75ea7e3ac9ea82f40b5fbbb5cd6
-N
-src/Class24/ArrayListDemo.java,f\2\f242978cd9f9c3a38a84d8061d7587b84b0e414e
-D
-src/ClassTester.java,2\8\28e6e0500bd9a01531de1003dc7ac875e2a09651
 V
 &src/Class26/ArrayListVsLinkedList.java,0\0\00d07589ccc7e1d0419ab4fbbe49c389a53c0869
+J
+src/Class26/TestExcel.java,b\d\bda9bf5687fb0e09d43aaa641fc1be232c4ebddf
+L
+src/Class26/CardHW/Card.java,0\4\0408033ae7e538dd40c2338a1c7f4843ff33a7ef
+O
+src/Class26/StudentHW/Main.java,7\f\7f7e8cbe76505d8de19c2323d8a70af956183871
+R
+"src/Class26/StudentHW/Student.java,9\b\9b49c23ec294bcc92060d9e51c5c123c2fb51c75
+Q
+!src/Class26/InsuranceHW/Main.java,a\9\a9be0a180596531b12e708fb571efbc3b72ba081
+S
+#src/Class26/InsuranceHW/Health.java,2\0\20253bd611ea59e4bf3f9c487ba39d390d0ff865
+P
+ src/Class26/InsuranceHW/Pet.java,e\1\e1c980b610338a2e63948b9dfe134a67bdbb89f9
+P
+ src/Class26/InsuranceHW/Car.java,f\b\fb36dbd8f7f3893a7a300b5725c190c408dd9cf0
+V
+&src/Class26/InsuranceHW/Insurance.java,b\d\bdada448318c0bfb727621e89404e7a8b41eed64
+O
+src/Class27/StudentHashMap.java,3\c\3cc0b745f2e8616e4f3d6f846600c8ba6ad1ee6c
+Q
+!src/Class25/EvenNumArrayList.java,9\0\907dce4b4742faa79f35fe7b506282d48e76899d
+P
+ src/Class25/DrinksArrayList.java,0\4\0449934bc206131b4f3a65ff12d1083f93f41b93
+Q
+!src/Class25/ArrayListRemoveE.java,e\f\efed901729610fbae110dcab12e4dc60b993d5eb
+N
+src/Class24/ArrayListDemo.java,f\2\f242978cd9f9c3a38a84d8061d7587b84b0e414e
+M
+src/Class27/IteratorDemo.java,7\7\779b79be3818e9334337dad874a51f5109f5eadc

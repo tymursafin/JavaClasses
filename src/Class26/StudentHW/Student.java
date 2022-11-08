@@ -22,4 +22,9 @@ public class Student {
     public void setStudentId(String studentId) {
         this.studentId = studentId;
     }
+
+    @Override
+    public String toString() {
+        return getName();
+    }
 }
