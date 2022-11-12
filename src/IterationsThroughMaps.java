@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 public class IterationsThroughMaps {
 
@@ -26,7 +25,7 @@ public class IterationsThroughMaps {
         numbers.forEach((key, value) -> {
             System.out.println(key + " " + value);
         });
-        Map<String, String> djkfdf = new TreeMap<>();
+
     }
 }
 
