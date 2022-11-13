@@ -19,9 +19,10 @@ public class ConcatenateString {
         stringSet.add("the");
         stringSet.add("collection");
 
-        stringSet.forEach(word -> {
-            System.out.print(word);
-        });
-
+        String text= "";
+        for(String word:stringSet){
+            text += word;
+        }
+        System.out.println(text);
     }
 }

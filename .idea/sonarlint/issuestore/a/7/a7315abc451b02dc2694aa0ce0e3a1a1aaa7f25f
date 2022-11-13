@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¨Ò°
+e
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Õ‰úÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(…îıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‰Ä¯»øÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÕıÆıÿÿÿÿ8ß œëÆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğÎ¬ëÆ0
