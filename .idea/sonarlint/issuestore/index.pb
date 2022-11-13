@@ -43,3 +43,13 @@ D
 src/ClassTester.java,2\8\28e6e0500bd9a01531de1003dc7ac875e2a09651
 @
 src/CodeBat.java,2\4\242ce2a8cedde6a7831e4640a4444129abb14a03
+M
+src/Class27/IteratorDemo.java,7\7\779b79be3818e9334337dad874a51f5109f5eadc
+I
+src/Class28/FileDemo.java,c\d\cd95c72150ea75093fe8fa8cea67b1d25d15eaa7
+F
+Data/config.properties,e\4\e43bf5cced8928d6c630f6f403e7cf12ac5561af
+J
+src/Class26/TestExcel.java,b\d\bda9bf5687fb0e09d43aaa641fc1be232c4ebddf
+W
+'src/Class28/HomeWork/MapOfBuilding.java,a\9\a999bff4267db0a9b9bcff7023d9c5dc41d1d250
