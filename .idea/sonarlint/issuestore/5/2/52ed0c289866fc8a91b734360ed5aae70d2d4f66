@@ -1,0 +1,10 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹™•üÿÿÿÿ8òÆìÇ0
+l
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ö€­Œıÿÿÿÿ8£ÇìÇ0
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÓÆ€ûúÿÿÿÿ8¤ÇìÇ0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(·øÇ8ªÇìÇ0
+X	java:S125+"<This block of commented-out lines of code should be removed.(¥üğ8ÓÇìÇ0
