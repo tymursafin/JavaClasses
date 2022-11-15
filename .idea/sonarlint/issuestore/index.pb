@@ -39,8 +39,6 @@ Q
 !src/Class25/ArrayListRemoveE.java,e\f\efed901729610fbae110dcab12e4dc60b993d5eb
 N
 src/Class24/ArrayListDemo.java,f\2\f242978cd9f9c3a38a84d8061d7587b84b0e414e
-D
-src/ClassTester.java,2\8\28e6e0500bd9a01531de1003dc7ac875e2a09651
 @
 src/CodeBat.java,2\4\242ce2a8cedde6a7831e4640a4444129abb14a03
 M
@@ -55,8 +53,6 @@ I
 src/Class28/MapDemo1.java,5\e\5ee48d3595ee8d8c464277a4783d2d7219fd598e
 H
 src/Class28/MapDemo.java,3\2\32c9a1dd9b462a519e93d37991cb0ded4e1d8651
-N
-src/IterationsThroughMaps.java,f\0\f0a3f0ded09b387946d46e82de1d65b27ff091ba
 V
 &src/Class28/HomeWork/BestBuyStore.java,9\a\9a1f22428aeea3e607b3b5775ffab822523ece6e
 ^
@@ -75,8 +71,6 @@ N
 src/Class29/ExcelReadTest.java,b\6\b6d200a414239ee167b05194b28e070c695f7db8
 V
 &src/Class29/ReadingExcelFileDemo2.java,d\8\d8b1828ebe7f0275a2d9f1537d41ed21edcd0bea
-J
-src/utils/ExcelReader.java,5\2\52ed0c289866fc8a91b734360ed5aae70d2d4f66
 K
 src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
 I
@@ -85,3 +79,7 @@ J
 src/Class28/FileDemo1.java,a\7\a7315abc451b02dc2694aa0ce0e3a1a1aaa7f25f
 W
 'src/Class28/HomeWork/MapOfBuilding.java,a\9\a999bff4267db0a9b9bcff7023d9c5dc41d1d250
+J
+src/utils/ExcelReader.java,5\2\52ed0c289866fc8a91b734360ed5aae70d2d4f66
+N
+src/IterationsThroughMaps.java,f\0\f0a3f0ded09b387946d46e82de1d65b27ff091ba
