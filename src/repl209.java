@@ -47,8 +47,7 @@ public class repl209 {
             }
 
             // Step 9: Print the values of each Iteration
-            System.out.print("SubTotal: " + SubTotal);
-            System.out.println("\n");
+            System.out.println("SubTotal: " + SubTotal);
         }
         // Step 11: After Loop Print the value of Total Purchase.
         System.out.println("Your Purchase total : " + totalPurchase);
