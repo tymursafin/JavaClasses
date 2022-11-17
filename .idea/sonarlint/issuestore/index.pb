@@ -77,11 +77,3 @@ N
 src/IterationsThroughMaps.java,f\0\f0a3f0ded09b387946d46e82de1d65b27ff091ba
 @
 src/repl209.java,2\b\2b1eaad72191d8dee86f7c984b775b137a484993
-@
-src/CodeBat.java,2\4\242ce2a8cedde6a7831e4640a4444129abb14a03
-K
-src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
-F
-Data/config.properties,e\4\e43bf5cced8928d6c630f6f403e7cf12ac5561af
-V
-&src/Class29/ReadingExcelFileDemo2.java,d\8\d8b1828ebe7f0275a2d9f1537d41ed21edcd0bea
