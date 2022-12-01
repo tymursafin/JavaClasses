@@ -73,8 +73,6 @@ W
 'src/Class28/HomeWork/MapOfBuilding.java,a\9\a999bff4267db0a9b9bcff7023d9c5dc41d1d250
 N
 src/IterationsThroughMaps.java,f\0\f0a3f0ded09b387946d46e82de1d65b27ff091ba
-@
-src/repl209.java,2\b\2b1eaad72191d8dee86f7c984b775b137a484993
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -82,8 +80,6 @@ N
 src/CodeBat.java,2\4\242ce2a8cedde6a7831e4640a4444129abb14a03
 V
 &src/Class29/ReadingExcelFileDemo2.java,d\8\d8b1828ebe7f0275a2d9f1537d41ed21edcd0bea
-L
-src/different/Singleton.java,d\6\d6fa372088775c31deec7f90ca633702c5d715fe
 V
 &src/com/syntax/Class12/Class12HW1.java,9\5\954500a84a00f41bf1ffe54911cb73921c1c07fa
 V
@@ -92,3 +88,15 @@ V
 &src/com/syntax/Class12/Class12HW6.java,5\3\53bc4b257e15a0aea3035137668656e03c86040a
 J
 src/utils/ExcelReader.java,5\2\52ed0c289866fc8a91b734360ed5aae70d2d4f66
+K
+src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
+Y
+)src/repls/Repl215BalancedParenthesis.java,f\3\f39a226cf1f850e8a239c8b5bceb7106ac9c8d8f
+U
+%src/repls/Repl217CountDuplicates.java,9\2\926e344b85169ea3264dc25a91c12b4102b82770
+W
+'src/repls/Repl219CountOnlyPrefixes.java,2\4\24a7b9dc5af6ffec9cb119dff95d42f0e9a75f1d
+L
+src/class14/createEmail.java,7\d\7d3271ada0634da97bd9e833e98752be1887c3b8
+H
+src/different/Test1.java,8\e\8ee1a67421f828571e4768c7ca6cfaf8fbef67fe
