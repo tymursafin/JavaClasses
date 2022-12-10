@@ -28,15 +28,6 @@ public class Repl217CountDuplicates {
                 duplicates.add(num);
             }
         }
-
-
-//        for(int i = 0; i < numbers.size(); i++){
-//            for (int j = i+1; j < numbers.size(); j++) {
-//                if(numbers.get(i) == numbers.get(j)){
-//                    duplicates.add(numbers.get(i));
-//                }
-//            }
-//        }
         return duplicates.size();
     }
 }

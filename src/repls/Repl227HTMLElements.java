@@ -1,8 +1,8 @@
-package different;
+package repls;
 
-import java.util.*;
+import java.util.Stack;
 
-public class Test1 {
+public class Repl227HTMLElements {
     public static void main(String[] args) {
         System.out.println(HTMLElements("<div><b><p>hello</p></b></div>"));
         System.out.println(HTMLElements("<div><div><b></b></div></p>"));
@@ -16,7 +16,6 @@ public class Test1 {
                 {"em", "<em", "</em"},
                 {"p", "<p", "</p"},
                 {"div", "<div", "</div"}};
-
 
         String[] tags = str.split(">");
         Stack<String> openTagsStack = new Stack<>();
@@ -34,6 +33,7 @@ public class Test1 {
                 }
             }
         }
+
         if (openTagsStack.isEmpty()) {
             return "true";
         } else {

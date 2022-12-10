@@ -24,18 +24,12 @@ public class Repl220FormatTheString {
 
     public static String formatString(String S) {
 
-        S = S.replaceAll("\\s", "")
-                .replaceAll("-", "")
-                .replaceAll("[^0-9]", "");
-        String result = "";
-        for (int i = 2; i < S.length(); i++) {
-            if (i % 3 == 0) {
-                result += S.charAt(i)+'-';
-            }else{
-                result+=S.charAt(i);
-            }
+        S = S.replaceAll("[^0-9]", "");
+        StringBuilder sb = new StringBuilder(S);
 
+        for (int i = 3; i < sb.length(); i += 4) {
+            sb.insert(i, "-");
         }
-        return result;
+        return sb.toString();
     }
 }
